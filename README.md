@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-<img height="225" src="https://tenor.com/ru/view/ihavenoemotions-gif-12773631947496644091"</img>
+<img height="225" src="https://media1.tenor.com/m/RHgUyUYav98AAAAC/anime.gif"</img>
 </div>
 
 
