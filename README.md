@@ -1,6 +1,6 @@
 <div align="center">
-<div class="tenor-gif-embed" data-postid="12773631947496644091" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/ihavenoemotions-gif-12773631947496644091">Ihavenoemotions GIF</a>from <a href="https://tenor.com/search/ihavenoemotions-gifs">Ihavenoemotions GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+
+<img height="225" src="https://tenor.com/ru/view/ihavenoemotions-gif-12773631947496644091"</img>
 
 <h2 align="center">Kioke, 17 y.o⌛</h2>
 
