@@ -1,6 +1,9 @@
 <div align="center">
 
+<div align="center">
 <img height="225" src="https://tenor.com/ru/view/ihavenoemotions-gif-12773631947496644091"</img>
+</div>
+
 
 <h2 align="center">Kioke, 17 y.o⌛</h2>
 
