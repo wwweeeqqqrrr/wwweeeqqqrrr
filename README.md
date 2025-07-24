@@ -1,11 +1,9 @@
 <div align="center">
 
-<div align="center">
-<img height="225" src="https://media1.tenor.com/m/RHgUyUYav98AAAAC/anime.gif"</img>
-</div>
 
 
-<h2 align="center">Kioke, 17 y.o⌛</h2>
+
+<h2 align="center">Kioke</h2>
 
 ###
 
